@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/projects/moje/synchronous_counter/test_isim_beh.exe" -prj "C:/Xilinx/projects/moje/synchronous_counter/test_beh.prj" "work.test" 
