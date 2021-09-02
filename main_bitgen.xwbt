@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\projects\moje\synchronous_counter\main.ncd
+OUTFILE=C:\Xilinx\projects\moje\synchronous_counter\main.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=C:\Xilinx\projects\moje\synchronous_counter
+LICENSE=WebPack
+USER_INFO=212256921_0_0_510
